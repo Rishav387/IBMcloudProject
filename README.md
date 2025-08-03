@@ -57,10 +57,10 @@ This chatbot project is designed for students and beginners to demonstrate how a
 
 ## 🖼️ Screenshots
 
-The following demo screenshots are included in the `/Screenshots` folder:
-- `assistant-home.png` – Project overview  
-- `build-tab.png` – All chatbot actions shown  
-- `chat-preview.png` – Real-time chatbot test
+The following demo screenshots are :
+- `Screenshot1.png` – Project overview  
+- `Screenshot2.png` – All chatbot actions shown  
+
 
 ---
 
@@ -68,8 +68,9 @@ The following demo screenshots are included in the `/Screenshots` folder:
 
 - `README.md` – This documentation  
 - `ppt/FitnessBuddyBot_Presentation.pptx` – Project presentation  
-- `report/FitnessBuddyBot_Project_Report.pdf` – Final report  
-- `Screenshots/` – Chatbot visuals
+- `report/FitnessBuddy_Report.pdf` – Final report  
+- `Screenshot1.png` – Project overview  
+- `Screenshot2.png` – All chatbot actions shown  
 
 ---
 
@@ -85,8 +86,8 @@ The following demo screenshots are included in the `/Screenshots` folder:
 
 ## 👨‍🎓 Created By
 
-- **Name:** Rahul Singh Parmar  
-- **College:** Graphic Era Deemed to be University 
+- **Name:** Rishav Kumar 
+- **College:** Graphic Era University 
 # 🤖 FitnessBuddyBot – IBM Cloud Chatbot Project
 
 **FitnessBuddyBot** is a simple fitness chatbot built using **IBM Watsonx Assistant (Lite Plan)** on **IBM Cloud**.  
@@ -146,10 +147,9 @@ This chatbot project is designed for students and beginners to demonstrate how a
 
 ## 🖼️ Screenshots
 
-The following demo screenshots are included in the `/Screenshots` folder:
-- `assistant-home.png` – Project overview  
-- `build-tab.png` – All chatbot actions shown  
-- `chat-preview.png` – Real-time chatbot test
+The following demo screenshots are:
+- `Screenshot1.png` – Project overview  
+- `Screenshot2.png` – All chatbot actions shown  
 
 ---
 
@@ -157,8 +157,9 @@ The following demo screenshots are included in the `/Screenshots` folder:
 
 - `README.md` – This documentation  
 - `ppt/FitnessBuddyBot_Presentation.pptx` – Project presentation  
-- `report/FitnessBuddyBot_Project_Report.pdf` – Final report  
-- `Screenshots/` – Chatbot visuals
+- `report/FitnessBuddy_Report.pdf` – Final report  
+- `Screenshot1.png` – Project overview  
+- `Screenshot2.png` – All chatbot actions shown  
 
 ---
 
@@ -174,8 +175,8 @@ The following demo screenshots are included in the `/Screenshots` folder:
 
 ## 👨‍🎓 Created By
 
-- **Name:** Rahul Singh Parmar  
-- **College:** Graphic Era Deemed to be University  
+- **Name:** Rishav Kumar 
+- **College:** Graphic Era University 
 - **Course:** B-Tech
 - **Project Type:** Solo  
 - **Platform:** IBM Cloud – SkillsBuild / Watsonx Assistant  
