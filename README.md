@@ -67,8 +67,8 @@ The following demo screenshots are :
 ## 📄 Project Files
 
 - `README.md` – This documentation  
-- `ppt/FitnessBuddyBot_Presentation.pptx` – Project presentation  
-- `report/FitnessBuddy_Report.pdf` – Final report  
+- `FitnessBuddy_Project_Presentation.pptx` – Project presentation  
+- `FitnessBuddy_Report.pdf` – Final report  
 - `Screenshot1.png` – Project overview  
 - `Screenshot2.png` – All chatbot actions shown  
 
@@ -156,8 +156,8 @@ The following demo screenshots are:
 ## 📄 Project Files
 
 - `README.md` – This documentation  
-- `ppt/FitnessBuddyBot_Presentation.pptx` – Project presentation  
-- `report/FitnessBuddy_Report.pdf` – Final report  
+- `FitnessBuddy_Project_Presentation.pptx` – Project presentation  
+- `FitnessBuddy_Report.pdf` – Final report  
 - `Screenshot1.png` – Project overview  
 - `Screenshot2.png` – All chatbot actions shown  
 
